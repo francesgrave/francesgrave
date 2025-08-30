@@ -4,6 +4,10 @@
 
 <p align=center
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&duration=1&color=F7F7F7&center=true&vCenter=true&width=435&lines=Do+i+even+cease+to+exist%3F;Do+i+even+cease+to+exist%3F;Do+i+even+cease+to+exist%3F;Do+i+even+cease+to+exist%3F;Do+i+even+cease+to+exist%3F;%F0%92%85%92%F0%92%88%94%F0%92%85%92%F0%92%87%AB%F0%92%84%86;%E2%9A%9D;%F0%90%95%A3;%E2%AB%98%E2%AB%98%E2%AB%98;this+life..;this+life..;i'm+sorry.)](https://git.io/typing-svg)
+
+<p align=center
+
 ![image](e37d25794bea67e56872c94ed405e164.jpg)
 
 <!--
