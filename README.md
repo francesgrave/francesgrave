@@ -19,7 +19,8 @@
 
 <p align=center
 
-ｓｐａｍ ｆｏｌｌｏｗｉｎｇ ａｃｃｏｕｎｔ.
+$${\color{black}spam \space \color{black} following \space \color{black} account {}}$$
+
 
 <p align=center
 
