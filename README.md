@@ -8,6 +8,14 @@
 
 ![image](Untitled24_20250922053249.webp)
 
+<p align=center
+
+spam following account.
+
+<p align=center
+
+![image](image-69fa-gradientmap.pro.png)
+
 <!--
 **francesgrave/francesgrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
