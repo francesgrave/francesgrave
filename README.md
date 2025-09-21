@@ -4,6 +4,14 @@
 
 <img width="73" height="56" alt="Untitled284_20250711193810" src="https://github.com/user-attachments/assets/072bb0a0-910c-44ef-a0b6-049d408f8f08" />
 
+<p align=center 
+  
+$${\color{gray}I \space \color{gray} loved \space \color{gray} you \space \color{white}more \space \color{gray}than \space \color{gray}anyone \space \color{gray}else. {}}$$
+
+<img width="73" height="56" alt="Untitled284_20250711193810" src="https://github.com/user-attachments/assets/072bb0a0-910c-44ef-a0b6-049d408f8f08" /> 
+
+<img width="73" height="56" alt="Untitled284_20250711193810" src="https://github.com/user-attachments/assets/072bb0a0-910c-44ef-a0b6-049d408f8f08" />
+
 <p align=center
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=𖦹_&color=ffffff&style=flat)
