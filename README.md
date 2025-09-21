@@ -1,6 +1,8 @@
+![madebyme](image-f0ca-gradientmap.pro.png)
+
 <p align=center
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=𖦹__&color=ffffff&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=𖦹_&color=ffffff&style=flat)
 
 <p align=center
 
