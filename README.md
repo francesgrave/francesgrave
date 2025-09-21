@@ -27,7 +27,7 @@ $${\color{gray}I \space \color{gray} loved \space \color{gray} you \space \color
 
 <p align=center
 
-$${\color{black}spam \space \color{black} following \space \color{black} account {}}$$
+$${\color{gray}spam \space \color{gray} following \space \color{white} account {}}$$
 
 
 <p align=center
